@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'core',
     'jobs',
     'rest_framework',
+    'resumes',
 ]
 
 MIDDLEWARE = [
